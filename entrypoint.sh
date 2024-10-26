@@ -1,4 +1,5 @@
 #!/bin/sh
+export PATH="/bin:$PATH"
 
 #    verilog-cleaner, a shell script to lint and format Verilog code.
 #    Copyright (C) 2021  Hu Jialun (SuibianP)
